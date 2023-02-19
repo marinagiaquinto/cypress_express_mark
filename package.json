@@ -1,0 +1,13 @@
+{
+  "name": "cypress_express_mark",
+  "version": "1.0.0",
+  "description": "Projeto de teste E2E no Mark L",
+  "main": "index.js",
+  "repository": "git@github.com:marinagiaquinto/cypress_express_mark.git",
+  "author": "Marina Giaquinto",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.35.2",
+    "cypress": "12.2.0"
+  }
+}
